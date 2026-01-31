@@ -14,7 +14,7 @@
   "editor.useTabStops": true,
   "emmet.triggerExpansionOnTab": true,
   "files.autoSave": "afterDelay",
-  "workbench.colorTheme": "LinkedIn Learning Dark",
+  "workbench.colorTheme": "Default Light Modern",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "chat.mcp.discovery.enabled": {
@@ -22,5 +22,7 @@
     "windsurf": true,
     "cursor-global": true,
     "cursor-workspace": true
-  }
+  },
+  "workbench.preferredDarkColorTheme": "Default Light Modern",
+  "workbench.preferredHighContrastColorTheme": "Default Light Modern"
 }
